@@ -1,0 +1,7 @@
+int main(){
+    int a;
+    int c;
+    int inr_er;
+    int harry; /*there should no white space character in creating a variable name*/
+    int Harry; /*c is case sensitive */
+}
