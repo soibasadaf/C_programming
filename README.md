@@ -1,10 +1,10 @@
-# C Programming Repository
+# C Repository
 
-This repository demonstrates my **C programming_basics learning journey**, organized by chapter. Each chapter has programs, exercises and lot of comments.
+This repo demonstrates my **C_basics learning journey**, organized by chapter. Each chapter has programs, exercises and supporting comments.
 
 ---
 
-## **Repository Structure**
+## **About structure**
 
 The repo is organized as follows:
 
@@ -21,5 +21,5 @@ The repo is organized as follows:
 - **10 -**  File input/output handling
 
 ## What I've learnt:
-- C concepts: variables, loops, conditionals, functions, pointers, arrays, strings, structs, and file I/O.
-- Writing modular programs, debugging errors, and building problem-solving skills.
+- C foundational concepts: variables, loops, conditionals, functions, pointers(p2p was a bit tricky), arrays, strings, structs, and file I/O.
+- Having this much exposure with C, I can confidently write modular programs(w/out ai), debug errors(by myself) and had a bit upgrade in problem-solving(though initially it was irritating to make sure f in printf is present or missing :| 
